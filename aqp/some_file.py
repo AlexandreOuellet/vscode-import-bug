@@ -1,0 +1,2 @@
+class SomeFile(object):
+    pass
