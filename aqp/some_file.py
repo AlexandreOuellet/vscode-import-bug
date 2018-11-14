@@ -1,2 +1,0 @@
-class SomeFile(object):
-    pass
